@@ -11,14 +11,22 @@
 
 <h2 align="center"> 👨‍💻 <b> About Me </b> </h2>
 <p align="center">
-🎓 B.Tech undergraduate in Artificial Intelligence.
+🎓 B.Tech undergraduate in <b> Artificial Intelligence </b>.
 <br>
 🎨 Love creating clean, efficient, and impactful projects.
 <br>
-📚 Currently exploring AI, Data Science, and automation tools.
+📚 Currently exploring <b> AI </b>, <b> Data Science </b>, and <b>automation tools</b>.
 <br>
-🎯 I'm passionate about building scalable solutions and solving real-world problems with code. 
+🎯 I'm passionate about building scalable solutions and solving <b> real-world problems </b> with code. 
 </p>
+<p align="center">
+    <b> Connect me on: </b>
+</p>
+<p align="center">
+<a href="mailto:shivamtandonn@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivam-tandon-898159327/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 <br>
 
 <h2 align="center"> 🚀 <b> Tech Interests </b> </h2>
@@ -90,12 +98,6 @@
 </p>
 <br>
 
-<h2 align="center"> 🤝 <b> Let's Connect </b> </h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-tandon-898159327/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shivamtandonn@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-<br>
 <p align="center">
   <h2 align="center"> ⭐️ <b> Thanks for visiting my profile! </b> ⭐️ </h2>
 </p>
