@@ -84,10 +84,6 @@
 </div>
 <br>
 
-
-
----
-
 <h2 align="center"> 📜 <b> Daily Quote </b> </h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
