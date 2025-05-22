@@ -20,7 +20,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: tshivam25
+          github_user_name: tShivam25
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
